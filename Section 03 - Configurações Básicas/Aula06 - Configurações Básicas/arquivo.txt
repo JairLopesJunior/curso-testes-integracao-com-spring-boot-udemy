@@ -1,0 +1,20 @@
+Configurações Básicas
+
+Iniciando o contexto de teste do Spring:
+
+ - Para o JUnit5 - Utilizar a annotation @SpringBootTest
+ - Para o JUnit4 - utilizar as annotations @SpringBootTest e @RunWith(SpringRunner.class)
+
+
+Outra forma de realizar o teste seria:
+
+ - Utilizar a annotation @ExtendWith(SpringExtension.class) é equivalente ao utilizar "@RunWith(SpringRunner.class) no JUnit4"
+ - Utilizar a annotation @ContextConfiguration(classes = {TextService.class})
+
+
+A diferença entre utilizar a anotação @SpringBootTest e @ContextConfiguration é:
+
+ - @SpringBootTest: Inicia um contexto mais completo e inicializa toda a aplicação.
+  
+ -  @ContextConfiguration: Inicia um contexto reduzido e inicia apenas as classes 
+da aplicação que foram passadas como parâmetro.
