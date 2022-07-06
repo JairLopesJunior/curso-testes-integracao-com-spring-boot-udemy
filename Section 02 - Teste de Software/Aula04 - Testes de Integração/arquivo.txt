@@ -1,0 +1,11 @@
+Testes de Integração
+
+"Determinar se as unidades de Software desenvolvidas de forma independente 
+funcionam corretamente quando estão conectadas entre si" - Martin Fowler
+
+
+Os testes de integração podem ser executados:
+
+ - Manualmente: Quando uma pessoa passa pelo caso de teste e executa as etapas descritas no documento.
+
+ - Automaticamente: Quando alguém desenvolve um script que será executado por alguma ferramenta.
