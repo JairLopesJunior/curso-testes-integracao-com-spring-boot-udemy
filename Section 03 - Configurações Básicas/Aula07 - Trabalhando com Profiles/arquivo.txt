@@ -1,0 +1,3 @@
+Trabalhando com Profiles
+
+ - @ActiveProfiles("test"): Serve para definir qual Profile o teste vai assumir quando for iniciado.
