@@ -1,0 +1,8 @@
+Módulo de testes do Spring
+
+ - O módulo de testes do Spring foi criado para facilitar a criação de testes em aplicações que usam o Spring Framework.
+
+ - O módulo de testes do Spring Boot vai adicionar mais algumas funcionalidades e ferramentas para facilitar mais ainda a 
+criação dos testes.
+
+Esse módulos já vem com diversas ferramentas e bibliotecas prontas para uso e nas versões mais atuais do Spring ele vem com o JUnit5.
