@@ -1,0 +1,26 @@
+Testes de Software
+
+"Teste de Software é o processo de análise de um item de Software para detectar as diferenças entre as condições existentes e necessárias
+(ou seja, defeitos) e avaliar os recursos do item de Software"
+
+Agora em poucas palavras:
+
+- Teste de Software é um processo realizado para descobrir defeitos do Software antes do cliente!
+
+
+
+para um Software ter uma boa aceitação no mercado ele deve ser:
+
+ - Confiável;
+ - Ter uma boa disponibilidade;
+ - Ter uma boa usabilidade;
+
+
+
+
+É importante planejar:
+
+ - Testes levam tempo para serem produzidos;
+ - Existem mais de 150 tipos de testes;
+ - Testes precisam de um ambiente para serem executados;
+ - Testes precisam de pessoas para produzi-los;
