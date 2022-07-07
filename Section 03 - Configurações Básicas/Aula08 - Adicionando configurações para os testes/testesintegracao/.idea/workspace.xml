@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a5a972a6-39a5-4a28-9720-105c05a75168" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Aula08 - Adicionando configurações/testesintegracao/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula08 - Adicionando configurações/testesintegracao/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula08 - Adicionando configurações/testesintegracao/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula08 - Adicionando configurações/testesintegracao/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula08 - Adicionando configurações/testesintegracao/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula08 - Adicionando configurações/testesintegracao/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula08 - Adicionando configurações/testesintegracao/src/main/java/com/udemy/testesintegracao/TestesintegracaoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula08 - Adicionando configurações/testesintegracao/src/main/java/com/udemy/testesintegracao/config/Config.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula08 - Adicionando configurações/testesintegracao/src/main/java/com/udemy/testesintegracao/config/EnvironmentConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula08 - Adicionando configurações/testesintegracao/src/main/java/com/udemy/testesintegracao/service/TextService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula08 - Adicionando configurações/testesintegracao/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula08 - Adicionando configurações/testesintegracao/src/test/java/com/udemy/testesintegracao/IntegrationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula08 - Adicionando configurações/testesintegracao/src/test/java/com/udemy/testesintegracao/ProfileIntegrationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula08 - Adicionando configurações/testesintegracao/src/test/java/com/udemy/testesintegracao/TestConfigurationsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula08 - Adicionando configurações/testesintegracao/src/test/java/com/udemy/testesintegracao/TestesintegracaoApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula08 - Adicionando configurações/testesintegracao/src/test/java/com/udemy/testesintegracao/configuration/beans/BeanForTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula08 - Adicionando configurações/testesintegracao/src/test/java/com/udemy/testesintegracao/configuration/beans/TestBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula08 - Adicionando configurações/testesintegracao/src/test/java/com/udemy/testesintegracao/configuration/beans/TestConfs.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="2BY19ZCgBajAbjhuFaKYWkv1mhD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+  </component>
+  <component name="RunManager" selected="JUnit.TestConfigurationsTest">
+    <configuration name="Testes Integracao" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="corretto-17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.udemy.testesintegracao.TestesintegracaoApplication" />
+      <module name="testesintegracao" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntegrationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testesintegracao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.udemy.testesintegracao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.udemy.testesintegracao" />
+      <option name="MAIN_CLASS_NAME" value="com.udemy.testesintegracao.IntegrationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntegrationTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testesintegracao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.udemy.testesintegracao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.udemy.testesintegracao" />
+      <option name="MAIN_CLASS_NAME" value="com.udemy.testesintegracao.IntegrationTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProfileIntegrationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testesintegracao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.udemy.testesintegracao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.udemy.testesintegracao" />
+      <option name="MAIN_CLASS_NAME" value="com.udemy.testesintegracao.ProfileIntegrationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestConfigurationsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testesintegracao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.udemy.testesintegracao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.udemy.testesintegracao" />
+      <option name="MAIN_CLASS_NAME" value="com.udemy.testesintegracao.TestConfigurationsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestConfigurationsTest.notRealBean" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testesintegracao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.udemy.testesintegracao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.udemy.testesintegracao" />
+      <option name="MAIN_CLASS_NAME" value="com.udemy.testesintegracao.TestConfigurationsTest" />
+      <option name="METHOD_NAME" value="notRealBean" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestConfigurationsTest" />
+        <item itemvalue="JUnit.TestConfigurationsTest.notRealBean" />
+        <item itemvalue="JUnit.ProfileIntegrationTest" />
+        <item itemvalue="JUnit.IntegrationTest" />
+        <item itemvalue="JUnit.IntegrationTest.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5a972a6-39a5-4a28-9720-105c05a75168" name="Changes" comment="" />
+      <created>1657068055751</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657068055751</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
