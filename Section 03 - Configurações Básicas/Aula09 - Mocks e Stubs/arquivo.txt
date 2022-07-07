@@ -1,0 +1,24 @@
+Mocks e Stubs
+
+Componentes ou processos que consomem muito tempo ou são caros de serem executados, podem inviabilizar os testes.
+
+ - Mocks e Stubs são usados para substituir esses componentes e processos.
+
+ - Stubs: Requerem mais codificação.
+
+ - Mocks: Requerem uma biblioteca de mocks.
+
+
+@MockBean != @Mock
+
+@MockBean:
+
+ - É do Spring Boot.
+
+ - Substitui os beans por mocks no contexto da aplicação.
+
+@Mock:
+
+ - É do Mockito.
+
+ - Cria um mock para ser usado no contexto do teste.

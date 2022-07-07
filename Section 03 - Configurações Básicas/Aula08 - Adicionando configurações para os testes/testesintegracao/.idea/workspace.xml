@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5a972a6-39a5-4a28-9720-105c05a75168" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Aula08 - Adicionando configurações/testesintegracao/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Aula08 - Adicionando configurações/testesintegracao/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Aula08 - Adicionando configurações/testesintegracao/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Aula08 - Adicionando configurações/testesintegracao/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Aula08 - Adicionando configurações/testesintegracao/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Aula08 - Adicionando configurações/testesintegracao/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Aula08 - Adicionando configurações/testesintegracao/src/main/java/com/udemy/testesintegracao/TestesintegracaoApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Aula08 - Adicionando configurações/testesintegracao/src/main/java/com/udemy/testesintegracao/config/Config.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Aula08 - Adicionando configurações/testesintegracao/src/main/java/com/udemy/testesintegracao/config/EnvironmentConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Aula08 - Adicionando configurações/testesintegracao/src/main/java/com/udemy/testesintegracao/service/TextService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Aula08 - Adicionando configurações/testesintegracao/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Aula08 - Adicionando configurações/testesintegracao/src/test/java/com/udemy/testesintegracao/IntegrationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Aula08 - Adicionando configurações/testesintegracao/src/test/java/com/udemy/testesintegracao/ProfileIntegrationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Aula08 - Adicionando configurações/testesintegracao/src/test/java/com/udemy/testesintegracao/TestConfigurationsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Aula08 - Adicionando configurações/testesintegracao/src/test/java/com/udemy/testesintegracao/TestesintegracaoApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Aula08 - Adicionando configurações/testesintegracao/src/test/java/com/udemy/testesintegracao/configuration/beans/BeanForTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Aula08 - Adicionando configurações/testesintegracao/src/test/java/com/udemy/testesintegracao/configuration/beans/TestBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Aula08 - Adicionando configurações/testesintegracao/src/test/java/com/udemy/testesintegracao/configuration/beans/TestConfs.java" afterDir="false" />
-    </list>
+    <list default="true" id="a5a972a6-39a5-4a28-9720-105c05a75168" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
