@@ -1,0 +1,9 @@
+Executando scripts no banco de dados para os testes
+
+Adicionar no arquivo application.properties:
+
+spring.jpa.hibernate.ddl.auto=create-drop // Indica que a estrutura do Banco de Dados vai ser criada a partir das suas entidades.
+
+Se estiver utilizando o H2 o Spring ja configura ele para voce e também ja deixa default a propriedade acima.
+
+spring.datasource.platform=test // Para o Spring não executar o schema.sql e o data.sql no ambiente de teste.
