@@ -1,0 +1,10 @@
+A anotação Sql
+
+@Sql({"arquivo1.sql", "arquivo2.sql"}) // Recebe 1 ou mais arquivos .sql na ordem de execução, serve para anotar um teste que deseja
+executar script do Banco de Dados. Também pode executar comandos SQLs e ser anotada varias vezes em um mesmo metodo.
+
+Propriedades da annotation @Sql:
+
+ - statements // Onde passa os comandos SQLs
+
+ - executionPhase // Faz com que aquela annotation @Sql sejá executada antes ou depois do metodo.
