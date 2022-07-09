@@ -1,0 +1,12 @@
+Spring Data JPA - @DataJpaTest
+
+@DataJpaTest // Contém configurações que inicializam um contexto muito reduzido da aplicação, apenas o que for relacionado com o 
+JPA vai ser inicializado.
+
+@AutoConfigureTestDatabase() // Para informar que quer usar o Banco de Dados configurado na sua aplicação.
+
+Atributos da annotation @AutoConfigureTestDatabase:
+
+ - replace = NONE // Informa que nenhum datasource deve ser substituido
+
+ - connection = H2 // Configura e força o uso desse Banco de Dados.
