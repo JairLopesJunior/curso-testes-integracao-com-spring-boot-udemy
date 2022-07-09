@@ -1,0 +1,32 @@
+Iniciando um servidor web para os testes
+
+@SpringBootTest // Por padrão não inicia um servidor WEB para os testes mas se as dependências WEB estiverem no projeto, os testes 
+já iram iniciar com o contexto WEB simulado mas ainda sim sem um servidor WEB.
+
+Propriedade da annotation @SpringBootTest:
+
+ - webEnvironment // Serve para alterar as configurações deste contexto WEB que será utilizado para os testes.
+
+ - webEnvironment = WebEnvironment.MOCK // Cria um WebApplicationContext com um ambiente de servlet simulado se as APIs de servlet 
+estiverem no classpath, um ReactiveWebApplicationContext se o Spring WebFlux estiver no classpath ou um ApplicationContext para os
+outros casos.
+
+ - webEnvironment = WebEnvironment.RANDOM_PORT // Cria um WebApplicationContext e define uma propriedade de ambiente server.port = 0, que
+aciona a escuta em uma porta aleatória.
+
+ - webEnvironment = WebEnvironment.DEFINED_PORT // Cria um WebApplicationContext usando uma porta definida.
+
+ - webEnvironment = WebEnvironment.NONE // Cria um ApplicationContext e define que o teste não deve ser executado como um aplicativo WEB.
+
+
+
+
+Para saber a porta que o tomcat foi iniciado:
+
+@LocalServerPort
+private int port;
+
+
+
+
+private RestTemplate restTemplate; // É um Client Sincrono para realizar requisições HTTP.
